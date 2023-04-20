@@ -1,5 +1,5 @@
 #=
-Linguagem: Julia
+Linguagem: Julia - Funcional
 •SomaNumero - Programa que lê dois números do usuário e imprima a soma desses números na tela.
 =#
 
