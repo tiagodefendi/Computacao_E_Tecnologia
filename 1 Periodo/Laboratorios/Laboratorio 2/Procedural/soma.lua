@@ -5,9 +5,9 @@ Paradigma: Procedural
 --]]
 
 print("Escolha um valor para o 1º número: ")
-local numero1 = io.read("*f") -- leitura da string com o io.read(), leitura de um número flutuante com o especificador "*f"
+local numero1 = io.read("*n") -- leitura da string com o io.read(), leitura de um número com o especificador "*n"
 print("Escolha um valor para o 1º número: ")
-local numero2 = io.read("*f")
+local numero2 = io.read("*n")
 
 local soma = numero1 + numero2
 
