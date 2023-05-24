@@ -1,0 +1,250 @@
+5
+Algoritmo: sorted. Menor tempo de execução: 5.00003807246685e-07
+Algoritmo: selection_sort. Menor tempo de execução: 2.500019036233425e-06
+Algoritmo: merge_sort. Menor tempo de execução: 4.800036549568176e-06
+Algoritmo: bubble_sort. Menor tempo de execução: 1.800013706088066e-06
+Algoritmo: insertion_sort. Menor tempo de execução: 1.9000144675374031e-06
+Algoritmo: quick_sort. Menor tempo de execução: 3.300025127828121e-06
+
+10
+Algoritmo: sorted. Menor tempo de execução: 4.00003045797348e-07
+Algoritmo: selection_sort. Menor tempo de execução: 6.00004568696022e-06
+Algoritmo: merge_sort. Menor tempo de execução: 1.5300000086426735e-05
+Algoritmo: bubble_sort. Menor tempo de execução: 1.3599987141788006e-05
+Algoritmo: insertion_sort. Menor tempo de execução: 3.600027412176132e-06
+Algoritmo: quick_sort. Menor tempo de execução: 1.0900082997977734e-05
+
+100
+Algoritmo: sorted. Menor tempo de execução: 7.2999391704797745e-06
+Algoritmo: selection_sort. Menor tempo de execução: 0.00021299999207258224
+Algoritmo: merge_sort. Menor tempo de execução: 0.00021169998217374086
+Algoritmo: bubble_sort. Menor tempo de execução: 0.0006299999076873064
+Algoritmo: insertion_sort. Menor tempo de execução: 0.00023290002718567848
+Algoritmo: quick_sort. Menor tempo de execução: 0.00015059998258948326
+
+1000
+Algoritmo: sorted. Menor tempo de execução: 0.00010389997623860836
+Algoritmo: selection_sort. Menor tempo de execução: 0.017978899995796382
+Algoritmo: merge_sort. Menor tempo de execução: 0.0021764999255537987
+Algoritmo: bubble_sort. Menor tempo de execução: 0.05746869998984039
+Algoritmo: insertion_sort. Menor tempo de execução: 0.018815400078892708
+Algoritmo: quick_sort. Menor tempo de execução: 0.0013763000024482608
+
+5000
+Algoritmo: sorted. Menor tempo de execução: 0.0007536000339314342
+Algoritmo: selection_sort. Menor tempo de execução: 0.5370379999512807
+Algoritmo: merge_sort. Menor tempo de execução: 0.017171300016343594
+Algoritmo: bubble_sort. Menor tempo de execução: 1.3985119999852031
+Algoritmo: insertion_sort. Menor tempo de execução: 0.5115329999243841
+Algoritmo: quick_sort. Menor tempo de execução: 0.010878699948079884
+
+10000
+Algoritmo: sorted. Menor tempo de execução: 0.0016341999871656299
+Algoritmo: selection_sort. Menor tempo de execução: 2.1752359999809414
+Algoritmo: merge_sort. Menor tempo de execução: 0.030389899970032275
+Algoritmo: bubble_sort. Menor tempo de execução: 5.6062970999628305
+Algoritmo: insertion_sort. Menor tempo de execução: 2.1636997000314295
+Algoritmo: quick_sort. Menor tempo de execução: 0.019808700075373054
+
+20000
+Algoritmo: sorted. Menor tempo de execução: 0.0025597999338060617
+Algoritmo: selection_sort. Menor tempo de execução: 9.506560600013472
+Algoritmo: merge_sort. Menor tempo de execução: 0.06056180002633482
+Algoritmo: bubble_sort. Menor tempo de execução: 22.452479999978095
+Algoritmo: insertion_sort. Menor tempo de execução: 8.871113399975002
+Algoritmo: quick_sort. Menor tempo de execução: 0.049504199996590614
+
+30000
+Algoritmo: sorted. Menor tempo de execução: 0.003918300033546984
+Algoritmo: selection_sort. Menor tempo de execução: 20.448057899950072
+Algoritmo: merge_sort. Menor tempo de execução: 0.09821930003818125
+Algoritmo: bubble_sort. Menor tempo de execução: 50.44261030002963
+Algoritmo: insertion_sort. Menor tempo de execução: 20.029330200050026
+Algoritmo: quick_sort. Menor tempo de execução: 0.08280580001883209
+
+40000
+Algoritmo: sorted. Menor tempo de execução: 0.005037000053562224
+Algoritmo: selection_sort. Menor tempo de execução: 35.43966100004036
+Algoritmo: merge_sort. Menor tempo de execução: 0.3876439998857677
+Algoritmo: bubble_sort. Menor tempo de execução: 99.19389320001937
+Algoritmo: insertion_sort. Menor tempo de execução: 33.273952599964105
+Algoritmo: quick_sort. Menor tempo de execução: 0.15072199993301183
+
+50000
+Algoritmo: sorted. Menor tempo de execução: 0.007834899937734008
+Algoritmo: selection_sort. Menor tempo de execução: 52.12272290000692
+Algoritmo: merge_sort. Menor tempo de execução: 0.22347219998482615
+Algoritmo: bubble_sort. Menor tempo de execução: 136.62112260004506
+Algoritmo: insertion_sort. Menor tempo de execução: 54.064605099963956
+Algoritmo: quick_sort. Menor tempo de execução: 0.16586000006645918
+
+60000
+Algoritmo: sorted. Menor tempo de execução: 0.010844499920494854
+Algoritmo: selection_sort. Menor tempo de execução: 77.61604659992736
+Algoritmo: merge_sort. Menor tempo de execução: 0.2161517000058666
+Algoritmo: bubble_sort. Menor tempo de execução: 194.82875300000887
+Algoritmo: insertion_sort. Menor tempo de execução: 79.21236749994569
+Algoritmo: quick_sort. Menor tempo de execução: 0.23156359989661723
+
+70000
+Algoritmo: sorted. Menor tempo de execução: 0.010243400000035763
+Algoritmo: selection_sort. Menor tempo de execução: 106.9221763999667
+Algoritmo: merge_sort. Menor tempo de execução: 0.29817460000049323
+Algoritmo: bubble_sort. Menor tempo de execução: 276.381641499931
+Algoritmo: insertion_sort. Menor tempo de execução: 107.58757079998031
+Algoritmo: quick_sort. Menor tempo de execução: 0.27414150000549853
+
+80000
+Algoritmo: sorted. Menor tempo de execução: 0.01028970000334084
+Algoritmo: selection_sort. Menor tempo de execução: 140.53627300006337
+Algoritmo: merge_sort. Menor tempo de execução: 0.32067990000359714
+Algoritmo: bubble_sort. Menor tempo de execução: 356.4769219000591
+Algoritmo: insertion_sort. Menor tempo de execução: 140.59372369991615
+Algoritmo: quick_sort. Menor tempo de execução: 0.4207840000744909
+
+90000
+Algoritmo: sorted. Menor tempo de execução: 0.011453800019808114
+Algoritmo: selection_sort. Menor tempo de execução: 175.7448048000224
+Algoritmo: merge_sort. Menor tempo de execução: 0.37754430004861206
+Algoritmo: bubble_sort. Menor tempo de execução: 454.92453949991614
+Algoritmo: insertion_sort. Menor tempo de execução: 178.34636169997975
+Algoritmo: quick_sort. Menor tempo de execução: 0.5134281000355259
+
+100000
+Algoritmo: sorted. Menor tempo de execução: 0.018841799930669367
+Algoritmo: selection_sort. Menor tempo de execução: 270.28701999993064
+Algoritmo: merge_sort. Menor tempo de execução: 0.5913042000029236
+Algoritmo: insertion_sort. Menor tempo de execução: 282.58071470004506
+Algoritmo: quick_sort. Menor tempo de execução: 1.0165262999944389
+
+200000
+Algoritmo: sorted. Menor tempo de execução: 0.03650229994673282
+Algoritmo: merge_sort. Menor tempo de execução: 1.1681162000168115
+Algoritmo: quick_sort. Menor tempo de execução: 2.842946899938397
+
+300000
+Algoritmo: sorted. Menor tempo de execução: 0.061946599977090955
+Algoritmo: merge_sort. Menor tempo de execução: 1.7297033000504598
+Algoritmo: quick_sort. Menor tempo de execução: 6.131426699925214
+
+400000
+Algoritmo: sorted. Menor tempo de execução: 0.059722499921917915
+Algoritmo: merge_sort. Menor tempo de execução: 2.6596675999462605
+Algoritmo: quick_sort. Menor tempo de execução: 10.097447199979797
+
+500000
+Algoritmo: sorted. Menor tempo de execução: 0.11039249994792044
+Algoritmo: merge_sort. Menor tempo de execução: 3.117262899992056
+Algoritmo: quick_sort. Menor tempo de execução: 14.424366399995051
+
+600000
+Algoritmo: sorted. Menor tempo de execução: 0.14720430003944784
+Algoritmo: merge_sort. Menor tempo de execução: 3.342532700044103
+Algoritmo: quick_sort. Menor tempo de execução: 20.358137300005183
+
+700000
+Algoritmo: sorted. Menor tempo de execução: 0.15156280004885048
+Algoritmo: merge_sort. Menor tempo de execução: 4.50805709999986
+Algoritmo: quick_sort. Menor tempo de execução: 27.32523349998519
+
+800000
+Algoritmo: sorted. Menor tempo de execução: 0.1247704999987036
+Algoritmo: merge_sort. Menor tempo de execução: 5.250813700025901
+Algoritmo: quick_sort. Menor tempo de execução: 35.63056379999034
+
+900000
+Algoritmo: sorted. Menor tempo de execução: 0.18382209993433207
+Algoritmo: merge_sort. Menor tempo de execução: 5.51123629999347
+Algoritmo: quick_sort. RecursionError: maximum recursion depth exceeded
+
+1000000
+Algoritmo: sorted. Menor tempo de execução: 0.12710500007960945
+Algoritmo: merge_sort. Menor tempo de execução: 3.6186615000478923
+
+5000000
+Algoritmo: sorted. Menor tempo de execução: 0.636824700050056
+Algoritmo: merge_sort. Menor tempo de execução: 21.145298000075854
+
+10000000
+Algoritmo: sorted. Menor tempo de execução: 1.494853699929081
+Algoritmo: merge_sort. Menor tempo de execução: 45.26604070002213
+
+50000000
+Algoritmo: sorted. MemoryError
+Algoritmo: merge_sort. MemoryError
+
+5
+Algoritmo: merge_sort. Menor tempo de execução: 1.2299977242946625e-05
+
+10
+Algoritmo: merge_sort. Menor tempo de execução: 1.780001912266016e-05
+
+100
+Algoritmo: merge_sort. Menor tempo de execução: 0.00020409992430359125
+
+1000
+Algoritmo: merge_sort. Menor tempo de execução: 0.002513399929739535
+
+5000
+Algoritmo: merge_sort. Menor tempo de execução: 0.016957500018179417
+
+10000
+Algoritmo: merge_sort. Menor tempo de execução: 0.04595039994455874
+
+20000
+Algoritmo: merge_sort. Menor tempo de execução: 0.1017104999627918
+
+30000
+Algoritmo: merge_sort. Menor tempo de execução: 0.12382550002075732
+
+40000
+Algoritmo: merge_sort. Menor tempo de execução: 0.19949709996581078
+
+50000
+Algoritmo: merge_sort. Menor tempo de execução: 0.21287340007256716
+
+60000
+Algoritmo: merge_sort. Menor tempo de execução: 0.2693660999648273
+
+70000
+Algoritmo: merge_sort. Menor tempo de execução: 0.3678914000047371
+
+80000
+Algoritmo: merge_sort. Menor tempo de execução: 0.3890224000206217
+
+90000
+Algoritmo: merge_sort. Menor tempo de execução: 0.44076939998194575
+
+100000
+Algoritmo: merge_sort. Menor tempo de execução: 0.6692410999676213
+
+200000
+Algoritmo: merge_sort. Menor tempo de execução: 1.0793892000801861
+
+300000
+Algoritmo: merge_sort. Menor tempo de execução: 1.9155013000126928
+
+400000
+Algoritmo: merge_sort. Menor tempo de execução: 5.752568199997768
+
+500000
+Algoritmo: merge_sort. Menor tempo de execução: 2.715483299922198
+
+600000
+Algoritmo: merge_sort. Menor tempo de execução: 3.493241099989973
+
+700000
+Algoritmo: merge_sort. Menor tempo de execução: 4.552402000059374
+
+800000
+Algoritmo: merge_sort. Menor tempo de execução: 4.8492463999427855
+
+900000
+Algoritmo: merge_sort. Menor tempo de execução: 6.261376600014046
+
+1000000
+Algoritmo: merge_sort. Menor tempo de execução: 15.932091300026514
+
+5000000
+Algoritmo: merge_sort. Menor tempo de execução: 41.326342699932866
+
