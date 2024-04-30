@@ -1,3 +1,3 @@
-# Computação e Tecnologia
+# Computing and Technology
 
-Neste Repositório existem alguns arquivos de códigos que foram usados durante as aulas, ou para trabalhos, na materia de Computação e Tecnologia, uma matéria, do primeiro período, que serviu como apresentação para os variados assuntos abordados no curso de Ciências da Computção, bem como, a história de como as tecnologias foram evoluindo até onde chegaram.
+In this Repository, there are some code files that were used during classes or for assignments in the subject of Computing and Technology, a course from the first semester, which served as an introduction to the various topics covered in the Computer Science program, as well as the history of how technologies have evolved to where they are today.
