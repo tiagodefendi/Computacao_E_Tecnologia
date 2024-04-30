@@ -1,16 +1,15 @@
-# Atividade individual sobre *Linguagens da Computação*.
+# Individual Activity on *Computer Languages*.
 
-Nesse laboratório, foi pedido para dois programas, básicos, em diferentes linguagens de programação. O professor pediu pra escolher três linguagens no site: [Hello World Collection](http://helloworldcollection.de/), e executar os seguintes comandos:
+In this laboratory, we were asked to write two basic programs in different programming languages. The professor requested to choose three languages on the website: [Hello World Collection](http://helloworldcollection.de/), and execute the following commands:
 
-1. Escolha uma **linguagem procedural**, uma **linguagem orientada a objeto**, e uma **linguagem funcional**. Linguagens de marcação (como HTML) não serão consideradas.
+1. Choose one **procedural language**, one **object-oriented language**, and one **functional language**. Markup languages (such as HTML) will not be considered.
 
-2. Escolha linguagens de programação que sejam desconhecidas pra você no momento.
+2. Choose programming languages that are currently unknown to you.
 
-3. Ao longo do curso, você já terá contato com as linguagens C, C++, Python, Java, Javascript. Assim, escolha linguagens diferentes dessas cinco.
+3. Throughout the course, you will already have contact with the languages C, C++, Python, Java, and Javascript. Therefore, choose languages different from these five.
 
-3. Para cada linguagem escolhida, escreva dois programas:
+3. For each chosen language, write two programs:
 
-    * OlaMundo - Programa que imprime “Olá Mundo” na tela.
+    * HelloWorld - A program that prints "Hello World" on the screen.
 
-    * SomaNumero - Programa que lê dois números do usuário e imprima a soma
-    desses números na tela.
+    * SumNumbers - A program that reads two numbers from the user and prints the sum of these numbers on the screen.
